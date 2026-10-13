@@ -57,7 +57,15 @@ Expected result: the complaint is classified as **Billing** and a new row is add
 
 ## Screenshots
 
-Add scenario and Google Sheets screenshots in a `/screenshots` folder and link them here.
+## Screenshots
+
+**Scenario**
+![Scenario canvas](screenshots/scenario.png)
+
+**Results in Google Sheets**
+![Urgent tab](screenshots/urgent.png)
+![Billing tab](screenshots/billing.png)
+![General tab](screenshots/general.png)
 
 ## Author
 
